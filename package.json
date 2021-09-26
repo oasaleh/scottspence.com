@@ -47,7 +47,7 @@
 		"svelte": "3.43.0",
 		"svelte-lazy": "1.0.12",
 		"svelte-preprocess": "4.9.5",
-		"svelte-scrollto": "^0.2.0",
+		"svelte-scrollto": "0.2.0",
 		"tailwindcss": "2.2.15",
 		"theme-change": "2.0.2",
 		"unist-util-visit": "4.1.0"
